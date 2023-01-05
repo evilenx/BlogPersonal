@@ -7,4 +7,4 @@ layout: default
 {: .large}
 Soy Emanuel Avilés y esta es mi página web o blog personal. Llámalo como quieras. 
 
-Tengo mucho por escribir y documentar, pero ya estoy en el proceso de ser mejor como persona y no simplemente ser un **NPC.**
+Quiero aprender a escribir y documentar, estar en el proceso correcto y enfocar mi atención en productividad. Explorar nuevos mundos y salir de la rueda de ser un **"NPC".**
