@@ -1,5 +1,5 @@
 ---
-title: Blog Personal - Evilenx [Emanuel Avilés] 
+title: Blog Personal - Evilenx 
 description: Documentaré mis proyectos y cosas que considero "interesantes". 
 layout: default
 ---
