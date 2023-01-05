@@ -1,6 +1,6 @@
 ---
 title: Blog Personal - Evilenx [Emanuel Avilés] 
-description: Go on, do it right fucking now - it's the best thing on the web you can do.
+description: probando si actualiza  
 layout: default
 ---
 
