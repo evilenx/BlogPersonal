@@ -1,3 +1,3 @@
-# Start a F**king Blog!
+# Este es el inicio de mi Blog Personal 
 
-Repo for the startafuckingblog.com website
+Escribiremos nuestros avances estúpidos aquí. 
