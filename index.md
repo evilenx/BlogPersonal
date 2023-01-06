@@ -28,7 +28,7 @@ Quiero aprender a escribir y documentar, estar en el proceso correcto y enfocar 
                .     .%@#         .%@#      .
 ```
 
-```
+```rust
             @@@@@@@@@@@@@@@@@@*:.   .+@@@@@@@@@@@@@@@@@@@
             @@@@@@@@*@@@@@@@@#.       -@@@@@@@@%*@@@@@@@@
             @@@@@@@@*.*@@@@@@+ +#: +#..%@@@@@@*.*@@@@@@@@
