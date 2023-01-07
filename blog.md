@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog 
-description: Aquí se alojarán mis progresos que condisere significativos.  
+description: Aquí se alojarán mis anotaciones que considere significativos.  
 permalink: /publicaciones/
 ---
 
