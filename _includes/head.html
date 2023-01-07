@@ -12,7 +12,7 @@
 
  <!-- Facebook integration -->
 <meta property="og:title" content="{{ page.title }}"/>
-<!-- {% if page.image %}<meta property="og:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}"/>{% endif %} -->
+{% if page.image %}<meta property="og:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}"/>{% endif %}
 <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}"/>
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="{{ site.title }}"/>
