@@ -12,7 +12,7 @@
 
  <!-- Facebook integration -->
 <meta property="og:title" content="{{ page.title }}"/>
-{% if page.image %}<meta property="og:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}"/>{% endif %}
+<!-- {% if page.image %}<meta property="og:image" content="{{ page.image | prepend: site.baseurl | prepend: site.url }}"/>{% endif %} -->
 <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}"/>
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="{{ site.title }}"/>
@@ -21,7 +21,9 @@
 <!-- Twitter integration -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ page.title }}" />
-{% if page.image %}<meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />{% endif %}
+
+<!--{% if page.image %}<meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />{% endif %} --> 
+
 <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
 <meta name="twitter:description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}" />
 
