@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Fucking Blog
-description: This is a fucking blog page. Enjoy it.
-permalink: /fucking-blog/
+title: Blog 
+description: Aquí se alojarán mis progresos que condisere significativos.  
+permalink: /publicaciones/
 ---
 
 {% for post in site.posts %}
