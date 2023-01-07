@@ -1,6 +1,6 @@
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://startafuckingblog.com" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  kevquirk
+url: "https://evilenxblog.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: evilenx 
 
 permalink: :title
 title: Blog personal 
