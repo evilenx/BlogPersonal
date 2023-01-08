@@ -15,7 +15,7 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      image: /assets/images/feature1.webp
+      image: #/assets/images/feature1.webp
   -
     scope:
       path: ""
