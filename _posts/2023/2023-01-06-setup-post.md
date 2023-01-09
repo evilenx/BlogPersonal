@@ -5,6 +5,7 @@ description: Este es mi setup mi personal.
 ---
 {: .large}
 Artix Linux - Distribución de Linux basada en Arch Linux. 
+
 ![Artix Linux](/assets/images/pc.jpg)
 
 Lorem ipsum dolor sit amet consectetur adipiscing elit, urna consequat felis vehicula class ultricies mollis dictumst, aenean non a in donec nulla. Phasellus ante pellentesque erat cum risus consequat imperdiet aliquam, integer placerat et turpis mi eros nec lobortis taciti, vehicula nisl litora tellus ligula porttitor metus. 
