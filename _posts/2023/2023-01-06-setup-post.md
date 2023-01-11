@@ -18,3 +18,9 @@ En 2016, systemd comenzó a eliminar los procesos de los usuarios al cerrar la s
 Dos años más tarde, se puede encontrar cientos de solicitudes de soporte en Internet, de usuarios frustrados a quienes systemd les está quitando sus sesiones.
 
 Los errores son molestos, pero así es la vida. Por otro lado, cuando uno es un usuario afectado que ha perdido el trabajo, y la investigación del error lo lleva a una discusión de años en la que alguien niega activamente que el error existe y se niega a solucionarlo, eso es exasperante . No creo que los desarrolladores de systemd merezcan la confianza que requiere el mantenimiento de una parte central de la infraestructura; no parece importarles lo suficiente si han roto cosas.
+### Continuando con el tema de Artix Linux 
+Hubo gente que hizo esta bifucación de Arch Linux y la llamaron Arch Open RC y otro grupo de personas que también hicieron un curso similar, como un sistema de inicio y había estas personas que estaban ejecuntando o que bifurcaron a Manjaro (distribución basada en Arch) en un un RC abierto de Manjaro y unieron fuerzas paracrear Artix Linux. 
+
+Una de las cosas de esto por supuesto, es que tienen las instalaciones de base como Arch, pero cuentan con escritorios configurado de forma predeterminada. 
+
+
