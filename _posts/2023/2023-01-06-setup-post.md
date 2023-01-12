@@ -23,4 +23,4 @@ Hubo gente que hizo esta bifurcación de Arch Linux y la llamaron Arch Open RC y
 
 Una de las cosas de esto por supuesto, es que tienen las instalaciones de base como Arch, pero cuentan con escritorios configurado de forma predeterminada. 
 
-
+Solo por cambiar algo el día de hoy
