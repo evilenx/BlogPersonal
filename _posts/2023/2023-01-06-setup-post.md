@@ -17,4 +17,4 @@ Una de las cosas de esto por supuesto, es que tienen las instalaciones de base c
 
 ### Teclado Mintaka 60%
 
-![Artix Linux](/assets/images/teclado.jpg)
+![teclado](/assets/images/teclado.jpg)
