@@ -18,3 +18,5 @@ Una de las cosas de esto por supuesto, es que tienen las instalaciones de base c
 ### Teclado Mintaka 60%
 
 ![teclado](/assets/images/teclado.jpg)
+
+Sin duda, no es el mejor teclado del mercado. Pero, me gusta porque es pequeño, ligero y lo puedo llevar donde sea. Las teclas no son tan ruidosas como otros teclados mécanicos. 
