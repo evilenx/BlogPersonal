@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Statusbar Dwm  
-description: Este es mi setup mi personal.  
+description: Statusbar que imprime fecha y hora para Dwm. 
 ---
 {: .large}
 # StatusBar - Dwm - Hecho en rust 
