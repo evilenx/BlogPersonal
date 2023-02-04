@@ -8,7 +8,12 @@ description: Statusbar que imprime fecha y hora para Dwm.
 
  ![Statusbardwm](/assets/images/statusbar.gif)
 
-#### 
+ Sin duda mi gestor de ventanas favoritos es Dwm. Aquí está el bloque de código para imprimir en pantalla la hora y fecha, ya que cuando lo instalé solo decía el nombre y la versión. 
+
+Lo próximo que tengo que hacer, es imprimir en pantalla el estado de la batería, wifi, clima y los Mbs en uso. 
+
+### Código en Rust 
+
 ```rust
 use std::time::Duration;
 use chrono::{DateTime, Local};
