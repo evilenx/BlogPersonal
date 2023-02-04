@@ -8,7 +8,8 @@ description: Statusbar que imprime fecha y hora para Dwm.
 
  ![Statusbardwm](/assets/images/statusbar.gif)
 
-```html
+#### 
+```rust
 use std::time::Duration;
 use chrono::{DateTime, Local};
 
