@@ -38,3 +38,11 @@ figcaption {
   padding: 1.5rem;
   margin: 2rem 0;
 }
+
+#npc{
+  max-width: 90%;
+  height: auto;
+  border-radius: 5px;
+}
+
+
