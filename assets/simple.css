@@ -529,6 +529,12 @@ video {
   border-radius: 5px;
 }
 
+#npc{
+  max-width: 90%;
+  height: auto;
+  border-radius: 5px;
+}
+
 figure {
   margin: 0;
   text-align: center;
