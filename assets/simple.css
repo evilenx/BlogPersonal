@@ -524,8 +524,8 @@ mark {
 
 img,
 video {
-  max-width: 100%;
-  height: center;
+  max-width: 50%;
+  height: auto;
   border-radius: 5px;
 }
 
