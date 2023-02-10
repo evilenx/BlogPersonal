@@ -7,7 +7,8 @@ description: cambiando la motivación por disciplina.
  
  ![](/assets/images/lentes2.jpg)
 <p align="center">
-     <img src="/assets/images/meme.png" width="460" height="360">
-     <img src="/assets/images/meme1.png" width="460" height="360">
+     <img src="/assets/images/meme.png" width="300" height="200">
+     <br>
+     <img src="/assets/images/meme1.png" width="300" height="200">
 </p>
 
