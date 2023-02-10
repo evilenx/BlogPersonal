@@ -18,6 +18,8 @@ Entonces si espero hasta que tenga ganas de hacer cosas, estoy en graves problem
 
  > La pregunta es "¿Cómo puedo hacer que mis sentimientos sean intrascendentes y hacer las cosas que conscientemente quiero hacer sin ser un llorón al respecto". XD
 
+ El punto es cortar precisamente el vínculo entre sentimientos y acciones, y hacerlo de todos modos. Llegas a sentirte bien, zumbado, enérgico y ansioso después. 
+
 <p align="center">
      <img src="/assets/images/meme.png" width="300" height="200">
 </p>
