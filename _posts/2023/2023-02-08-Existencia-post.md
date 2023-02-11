@@ -16,7 +16,7 @@ Entonces si espero hasta que tenga ganas de hacer cosas, estoy en graves problem
 
  En esencia, perseguir la motivación es insistir en la fantasía infantil de que solo debería estar haciendo las cosas que tengo ganas de hacer. 
 
- > La pregunta es "¿Cómo puedo hacer que mis sentimientos sean intrascendentes y hacer las cosas que conscientemente quiero hacer sin ser un llorón al respecto". XD
+ > La pregunta es "¿Cómo puedo hacer que mis sentimientos sean intrascendentes y hacer las cosas que conscientemente quiero hacer sin ser un llorón al respecto?" XD
 
  El punto es cortar precisamente el vínculo entre sentimientos y acciones, y hacerlo de todos modos. Llegas a sentirte bien, zumbado, enérgico y ansioso después. 
 
