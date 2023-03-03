@@ -21,8 +21,7 @@ Entonces si espero hasta que tenga ganas de hacer cosas, estoy en graves problem
  El punto es cortar precisamente el vínculo entre sentimientos y acciones, y hacerlo de todos modos. Llegas a sentirte bien, zumbado, enérgico y ansioso después. 
 
 <p align="center">
-     <img src="/assets/images/meme.png" width="300" height="200">
- *Conflicto interno*
+     <img src="/assets/images/meme.png" width="300" height="200" alt="Conflicto interno">
 </p>
 
  <p align="center">
