@@ -1,6 +1,8 @@
 # Este es el inicio de mi Blog Personal 
 
-![logo](/assets/images/feature.jpg)
+<p align="center">
+  <img="/assets/images/feature.jpg">
+</p>
 
 Creo que los ingenieros de software deben escribir blogs, diarios, escribir 
 documentanción y, en general, hacer cualquier cosa que exija mantener habilidades de comunicación escrita en forma. 
