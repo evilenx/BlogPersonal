@@ -7,7 +7,7 @@ description: Statusbar que imprime fecha y hora para Dwm.
 # StatusBar - Dwm - Hecho en rust 
 
  ![Statusbardwm](/assets/images/statusbar.gif)
- *format %d, %m, %Y, %T*
+ *formato %d, %m, %Y, %T*
 
  Sin duda mi gestor de ventanas favoritos es Dwm. Aquí está el bloque de código para imprimir en pantalla la hora y fecha, ya que cuando lo instalé solo decía el nombre y la versión. 
 
