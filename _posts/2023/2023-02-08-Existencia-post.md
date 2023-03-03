@@ -22,10 +22,10 @@ Entonces si espero hasta que tenga ganas de hacer cosas, estoy en graves problem
 
 <p align="center">
      <img src="/assets/images/meme.png" width="300" height="200">
-</p>
  *Conflicto interno*
+</p>
 
  <p align="center">
          <img src="/assets/images/meme1.png" width="300" height="200">
- </p>
  *NPC*
+ </p>
