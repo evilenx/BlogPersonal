@@ -1,7 +1,7 @@
 # Este es el inicio de mi Blog Personal 
 
 <p align="center">
-  <img="/assets/images/feature.jpg">
+  <img sr="/assets/images/feature.jpg">
 </p>
 
 Creo que los ingenieros de software deben escribir blogs, diarios, escribir 
