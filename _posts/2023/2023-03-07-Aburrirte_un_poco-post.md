@@ -8,7 +8,7 @@ description: Cuando estás aburrido, empiezas a jugar con arreglar y lograr cosa
  ![](/assets/images/bored.png)
  *Aburrido*
 
-> Cuando nos encontramos aburridos, a menudo nos encontramos buscando maneras de mejorar y alcanzar nuestras metas personales. El aburrimiento puede ser una poderosa fuente de inspiración que nos impulsa a buscar nuevas formas de hacer las cosas y alcanzar nuestras metas de manera más eficiente. En lugar de simplemente consumir medios de forma pasiva, el aburrimiento puede motivarnos a ser más creativos y a buscar formas innovadoras de resolver problemas y desafíos.
+Cuando nos encontramos aburridos, a menudo nos encontramos buscando maneras de mejorar y alcanzar nuestras metas personales. El aburrimiento puede ser una poderosa fuente de inspiración que nos impulsa a buscar nuevas formas de hacer las cosas y alcanzar nuestras metas de manera más eficiente. En lugar de simplemente consumir medios de forma pasiva, el aburrimiento puede motivarnos a ser más creativos y a buscar formas innovadoras de resolver problemas y desafíos.
 
 Además, el aburrimiento puede tener beneficios sorprendentes para nuestra salud mental. Cuando nos aburrimos, nuestros cerebros tienen la oportunidad de descansar y recuperarse, lo que puede mejorar nuestro bienestar emocional y reducir los niveles de estrés. De hecho, algunas investigaciones sugieren que el aburrimiento puede ser un factor importante para la creatividad y la innovación.
 
